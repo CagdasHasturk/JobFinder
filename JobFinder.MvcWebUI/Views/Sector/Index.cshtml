@@ -1,0 +1,20 @@
+﻿@model JobFinder.MvcWebUI.Models.SectorListModelView
+
+<h2>Sector List</h2>
+<table class="table-class">
+    <thead>
+        <tr>
+            <th>Sector ID</th>
+            <th>Sector Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sector in Model.Sectors)
+        {
+            <tr>
+                <td>@sector.Id</td>
+                <td>@sector.SectorName</td>
+            </tr>
+        }
+    </tbody>
+</table>

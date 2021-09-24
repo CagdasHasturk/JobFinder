@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A1FF651B-863D-426B-97CE-229B86A10FAC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JobFinder.DataAccess/JobFinder.DataAccess.csproj">
+    <Files>
+      <File FileName="JobFinder.DataAccess/JobFinder.DataAccess.csproj" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JobFinder" expanded="True">
+            <Node name="JobFinder.Entities" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JobFinder.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>JobFinder.DataAccess/JobFinder.DataAccess.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JobFinder.MvcWebUI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

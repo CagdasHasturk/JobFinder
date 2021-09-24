@@ -1,0 +1,9 @@
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/bin/Debug/netcoreapp3.1/JobFinder.Core.deps.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/bin/Debug/netcoreapp3.1/JobFinder.Core.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/bin/Debug/netcoreapp3.1/JobFinder.Core.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.csprojAssemblyReference.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.AssemblyInfoInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.AssemblyInfo.cs
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.csproj.CoreCompileInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Core/obj/Debug/netcoreapp3.1/JobFinder.Core.pdb

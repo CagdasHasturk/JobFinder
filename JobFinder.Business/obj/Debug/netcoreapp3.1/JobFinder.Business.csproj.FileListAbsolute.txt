@@ -1,0 +1,16 @@
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Business.deps.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Business.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Business.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Core.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Entities.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Entities.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/bin/Debug/netcoreapp3.1/JobFinder.Core.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.csprojAssemblyReference.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.AssemblyInfoInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.AssemblyInfo.cs
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.csproj.CoreCompileInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.csproj.CopyComplete
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Business/obj/Debug/netcoreapp3.1/JobFinder.Business.pdb

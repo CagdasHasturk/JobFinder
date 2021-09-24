@@ -1,0 +1,12 @@
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/bin/Debug/netcoreapp3.1/JobFinder.Entities.deps.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/bin/Debug/netcoreapp3.1/JobFinder.Entities.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/bin/Debug/netcoreapp3.1/JobFinder.Entities.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/bin/Debug/netcoreapp3.1/JobFinder.Core.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/bin/Debug/netcoreapp3.1/JobFinder.Core.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.csprojAssemblyReference.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.AssemblyInfoInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.AssemblyInfo.cs
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.csproj.CoreCompileInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.csproj.CopyComplete
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.Entities/obj/Debug/netcoreapp3.1/JobFinder.Entities.pdb

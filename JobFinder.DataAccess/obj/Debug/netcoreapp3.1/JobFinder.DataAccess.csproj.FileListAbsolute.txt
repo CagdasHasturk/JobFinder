@@ -1,0 +1,17 @@
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.deps.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.runtimeconfig.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.runtimeconfig.dev.json
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.DataAccess.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.Core.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.Entities.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.Entities.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/bin/Debug/netcoreapp3.1/JobFinder.Core.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.csprojAssemblyReference.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.AssemblyInfoInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.AssemblyInfo.cs
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.csproj.CoreCompileInputs.cache
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.csproj.CopyComplete
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.dll
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.pdb
+/Users/cagdashasturk/Projects/JobFinder/JobFinder.DataAccess/obj/Debug/netcoreapp3.1/JobFinder.DataAccess.genruntimeconfig.cache
